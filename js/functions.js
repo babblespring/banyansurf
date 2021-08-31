@@ -2289,5 +2289,5 @@ var SEMICOLON = SEMICOLON || {};
 			}
 		}, 250);
 	});
-
+	includeHTML();
 })(jQuery);
